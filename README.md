@@ -1,5 +1,8 @@
 # RTE-medium
 This one is based on medium-editor , which is itself based on draftjs..
 
+To get started do :
 
-Do "npm install" in the parent folder of project, followed by " npm start". For bundle-production, use "webpack -p".
+- npm install
+- npm start (if want to create production bundle, use webpack -p)
+- Go to localhost:8080 (default port)
